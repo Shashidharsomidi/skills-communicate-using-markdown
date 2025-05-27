@@ -11,3 +11,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 These are some header used in GitHub!
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+To add a Image in a GitHub ![Name of the Image](URL or Link of the Image).
