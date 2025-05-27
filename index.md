@@ -30,3 +30,9 @@ var myVar = "Hello, world!";
 ```
 
 To add code into a file in GitHub with in a blocks by placing triple backticks ``` before and after the code.
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
