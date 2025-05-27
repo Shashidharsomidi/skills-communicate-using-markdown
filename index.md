@@ -16,3 +16,17 @@ These are some header used in GitHub!
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 To add a Image in a GitHub ![Name of the Image](URL or Link of the Image).
+
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+To add code into a file in GitHub with in a blocks by placing triple backticks ``` before and after the code.
